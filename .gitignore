@@ -8,5 +8,12 @@ __pycache__/
 
 .vscode/
 *.log
-
 .cache/
+
+models/
+checkpoints/
+outputs/
+*.safetensors
+*.bin
+*.pt
+*.pth
