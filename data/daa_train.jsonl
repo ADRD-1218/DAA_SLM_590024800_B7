@@ -1,0 +1,5 @@
+{"question":"What is binary search?","answer":"Binary search is a searching algorithm that works on a sorted array by repeatedly dividing the search space in half."}
+{"question":"What is the time complexity of binary search?","answer":"The time complexity of binary search is O(log n) because the search space is approximately divided in half after each comparison."}
+{"question":"What is linear search?","answer":"Linear search checks the elements of a list one by one until the target is found or all elements have been checked."}
+{"question":"What is the worst-case time complexity of linear search?","answer":"The worst-case time complexity of linear search is O(n) because every element may need to be checked."}
+{"question":"What is a minimum spanning tree?","answer":"A minimum spanning tree is a spanning tree of a connected weighted graph with the minimum possible total edge weight."}
