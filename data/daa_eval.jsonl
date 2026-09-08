@@ -1,0 +1,5 @@
+{"question":"Why does binary search require a sorted array?","expected_topic":"binary search and sorted data"}
+{"question":"What is the difference between BFS and DFS?","expected_topic":"BFS versus DFS"}
+{"question":"What is the best-case time complexity of linear search?","expected_topic":"linear search complexity"}
+{"question":"What is the difference between Prim's and Dijkstra's algorithms?","expected_topic":"Prim versus Dijkstra"}
+{"question":"What is the purpose of a minimum spanning tree?","expected_topic":"minimum spanning tree"}
